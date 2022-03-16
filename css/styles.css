@@ -1,0 +1,180 @@
+.top-container {
+  /*position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0px);*/
+  padding-top: 100px;
+  position: relative;
+  background-color: #EFFFFD;
+}
+
+.middle-container {
+  margin-bottom: 40px;
+}
+
+.bottom-container {
+  background-color: #EFFFFD;
+  padding: 40px 0 40px;
+}
+
+.design-container {
+  position: absolute;
+  padding-left: 40px;
+  margin-top: 5px;
+  left: 45%;
+  top: 27%;
+  line-height: 1.5;
+}
+
+.skills {
+  position: relative;
+}
+
+.profile-description {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0px);
+  width: 280px;
+  margin-bottom: 40px;
+  line-height: 1.5;
+}
+
+.email-img {
+  position: relative;
+  top: 4px;
+  right: 10px;
+  width: 28px;
+}
+
+.contact-p {
+  margin: 50px auto 80px auto;
+}
+
+.message-me {
+  /*background-color: #43d5a4;*/
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(67,213,164,1) 0%, rgba(0,212,255,1) 100%);
+  color: #ddfcef;
+  padding: 12px 24px;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.contact-description {
+  margin: auto;
+  width: 550px;
+  line-height: 1.5;
+}
+
+.profile-description-two {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0px);
+  width: 280px;
+  margin-bottom: 40px;
+  line-height: 1.5;
+  bottom: 6px;
+}
+.tanjiro {
+  width: 10%;
+  height: 10%;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-family: 'Xanh Mono', monospace;
+  font-size: 1.2rem;
+  margin-bottom: 40px;
+  color: #009DAE;
+}
+
+.design-subtitle {
+  text-align: left;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.hr-profile {
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+.hr-two {
+  margin: 40px auto 40px auto;
+}
+
+.computer {
+  width: 10%;
+  height: 10%;
+  position: relative;
+  right: 10%;
+  top: 3px;
+}
+
+.footer-link {
+  background-color: #42C2FF;
+  border: none;
+  color: white;
+  padding: 7px 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+p {
+  margin-bottom: 0;
+  font-family: 'Zilla Slab', serif;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: serif;
+}
+
+h1 {
+  margin: 50px auto auto;
+  font-family: 'Allura', cursive;
+  font-size: 5rem;
+  color: #009DAE;
+}
+
+h2 {
+  font-family: 'Old Standard TT', serif;
+  font-size: 2.5rem;
+  color: #009DAE;
+}
+
+h3 {
+  font-family: 'Old Standard TT', serif;
+  font-size: 1.4rem;
+  color: #009DAE;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #5584AC;
+  width: 5%;
+  border-width: 5px;
+}
+
+table {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0px);
+  margin-bottom: 40px;
+}
+
+td {
+  padding: 0 10px 0;
+}
