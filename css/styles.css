@@ -21,7 +21,7 @@
   padding-left: 40px;
   margin-top: 5px;
   left: 45%;
-  top: 27%;
+  top: 11.5%;
   line-height: 1.5;
 }
 
@@ -114,7 +114,6 @@
 
 .computer {
   width: 10%;
-  height: 10%;
   position: relative;
   right: 10%;
   top: 3px;
@@ -129,6 +128,35 @@
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
+
+.skills-design {
+  margin-top: 80px;
+}
+
+.table-div {
+  position: relative;
+  right: 120px;
+  margin-right: 60px;
+}
+
+.tools {
+  float: right;
+  width: 10%;
+  position: relative;
+  right: 34.3%;
+  margin-left: 130px;
+}
+
+.table-skills {
+  margin-bottom: -35px;
+  line-height: 1.8;
+}
+
+.copyright {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.1rem;
+  color: #05909f;
 }
 
 p {
@@ -177,4 +205,8 @@ table {
 
 td {
   padding: 0 10px 0;
+}
+
+stars {
+  color: #009DAE;
 }
